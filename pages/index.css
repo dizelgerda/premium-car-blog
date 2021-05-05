@@ -12,6 +12,20 @@
 @import url(../blocks/label/label.css);
 @import url(../blocks/label/__text/label__text.css);
 
+@import url(../blocks/main-content/__article-container/main-content__article-container.css);
+@import url(../blocks/main-content/__image/main-content__image.css);
+@import url(../blocks/main-content/__article/main-content__article.css);
+@import url(../blocks/main-content/__label/main-content__label.css);
+@import url(../blocks/main-content/__title/main-content__title.css);
+@import url(../blocks/main-content/__metadata/main-content__metadata.css);
+@import url(../blocks/main-content/__subtitle/main-content__subtitle.css);
+@import url(../blocks/main-content/__nav/main-content__nav.css);
+@import url(../blocks/main-content/__nav-link-container/main-content__nav-link-container.css);
+@import url(../blocks/main-content/__nav-link/main-content__nav-link.css);
+@import url(../blocks/main-content/__nav-link-container/_active/main-content__nav-link-container_active.css);
+@import url(../blocks/main-content/__nav-link/_active/main-content__nav-link_active.css);
+@import url(../blocks/main-content/__nav-control/main-content__nav-control.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__nav/header__nav.css);
@@ -27,5 +41,9 @@
 @import url(../blocks/popular/__metadata/popular__metadata.css);
 @import url(../blocks/popular/__title/popular__title.css);
 @import url(../blocks/popular/__title/_main/popular__title_main.css);
+
+@import url(../blocks/blog/blog.css);
+@import url(../blocks/blog/__main-content/blog__main-content.css);
+@import url(../blocks/blog/__dop-content/blog__dop-content.css);
 
 @import url(../blocks/);
