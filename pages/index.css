@@ -1,0 +1,31 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__part-1/logo__part-1.css);
+@import url(../blocks/logo/__part-2-container/logo__part-2-container.css);
+@import url(../blocks/logo/__part-2/logo__part-2.css);
+
+@import url(../blocks/label/label.css);
+@import url(../blocks/label/__text/label__text.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-link/header__nav-link.css);
+@import url(../blocks/header/__search/header__search.css);
+
+@import url(../blocks/popular/popular.css);
+@import url(../blocks/popular/__card/popular__card.css);
+@import url(../blocks/popular/__card/_main/popular__card_main.css);        
+@import url(../blocks/popular/__image/popular__image.css);
+@import url(../blocks/popular/__label/popular__label.css);
+@import url(../blocks/popular/__label-text/popular__label-text.css);
+@import url(../blocks/popular/__metadata/popular__metadata.css);
+@import url(../blocks/popular/__title/popular__title.css);
+@import url(../blocks/popular/__title/_main/popular__title_main.css);
+
+@import url(../blocks/);
