@@ -62,4 +62,46 @@
 @import url(../blocks/trend/__card/trend__card.css);
 @import url(../blocks/trend/__title/trend__title.css);
 
+@import url(../blocks/insta-grid/insta-grid.css);
+@import url(../blocks/insta-grid/__title/insta-grid__title.css);
+@import url(../blocks/insta-grid/__image/insta-grid__image.css);
+@import url(../blocks/insta-grid/__link/insta-grid__link.css);
+@import url(../blocks/insta-grid/__link-logo/insta-grid__link-logo.css);
+@import url(../blocks/insta-grid/__link-text/insta-grid__link-text.css);
+
+@import url(../blocks/tags/tags.css);
+@import url(../blocks/tags/__title/tags__title.css);
+@import url(../blocks/tags/__tag-container/tags__tag-container.css);
+@import url(../blocks/tags/__tag-text/tags__tag-text.css);
+
+@import url(../blocks/email-form/__title/email-form__title.css);
+@import url(../blocks/email-form/__subtitle/email-form__subtitle.css);
+@import url(../blocks/email-form/__item/email-form__item.css);
+@import url(../blocks/email-form/__link/email-form__link.css);
+@import url(../blocks/email-form/__link-text/email-form__link-text.css);
+@import url(../blocks/email-form/__title/_theme/email-form__title_theme_dark.css);
+@import url(../blocks/email-form/__item/_theme/email-form__item_theme_dark.css);
+@import url(../blocks/email-form/__link/_theme/email-form__link_theme_dark.css);
+@import url(../blocks/email-form/__link-text/_theme/email-form__link-text_theme_dark.css);
+
+@import url(../blocks/recent/__title/recent__title.css);
+@import url(../blocks/recent/__card/);
+@import url(../blocks/recent/__image/recent__image.css);
+@import url(../blocks/recent/__article-title/recent__article-title.css);
+@import url(../blocks/recent/__metadata/recent__metadata.css);
+
+@import url(../blocks/most-popular/most-popular.css);
+@import url(../blocks/most-popular/__title/most-popular__title.css);
+@import url(../blocks/most-popular/__card/most-popular__card.css);
+
+@import url(../blocks/pred-footer/pred-footer.css);
+@import url(../blocks/pred-footer/__container/pred-footer__container.css);
+
+@import url(../blocks/about/__link-image/about__link-image.css);
+@import url(../blocks/about/__link/about__link.css);
+@import url(../blocks/about/__links/about__links.css);
+@import url(../blocks/about/__logo/about__logo.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__title/about__title.css);
+
 @import url(../blocks/);
