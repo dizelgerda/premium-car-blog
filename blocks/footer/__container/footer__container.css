@@ -1,8 +1,9 @@
-.pred-footer__container {
+.footer__container {
     max-width: 1170px;
 
     margin: auto;
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
